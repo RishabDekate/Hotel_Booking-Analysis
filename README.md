@@ -13,7 +13,7 @@ Analysis Project Steps:
 2. Identify the data you want to analyze.
 3. Explore and clean the data 
 4. Analyze the data to get useful insights.
-5. Present the data in trems of reports or dashboarss using visualization.
+5. Present the data in terms of reports or dashboarsds using visualization.
 
 Assumptions:
 1. No unusal occurrences between 2015 and 2017 will have a substantial impact the data used.
